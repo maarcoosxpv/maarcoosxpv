@@ -5,7 +5,7 @@ Olá, eu sou o Marcos André! 👋
 
 Sou um desenvolvedor full-stack e solucionador de problemas baseado em Manaus/AM. Meu foco é projetar tecnologia de ponta, otimizar processos internos e aplicar psicologia comportamental para criar ecossistemas que geram impacto real no mundo corporativo.
 
-💡 Atualmente atuo como Assistente Comercial e Desenvolvedor na HEVI Embalagens, onde transformo desafios diários em soluções digitais automatizadas.
+💡 Atualmente atuo na HEVI Embalagens, onde transformo desafios diários em soluções digitais automatizadas.
 
 🚀 PROJETO EM DESTAQUE: PLATAFORMA LIDERAR NA PRÁTICA
 
